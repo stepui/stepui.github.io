@@ -1,1 +1,0 @@
-{"version":3,"file":"Demo-fdd1dd02.js","sources":["../../src/pages/Demo.vue"],"sourcesContent":["<template>\n  <div ref=\"demo\" class=\"demo bg-red-50 p-8 mb-4\">demo</div>\n</template>\n<script lang=\"ts\" setup></script>\n"],"names":["_hoisted_1"],"mappings":"iEACOA,EAAA,CAAW,IAAA"}
