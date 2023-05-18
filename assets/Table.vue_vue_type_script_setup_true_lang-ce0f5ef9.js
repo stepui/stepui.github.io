@@ -1,2 +1,0 @@
-import{_ as s}from"./AuthorTable.vue_vue_type_script_setup_true_lang-902ed0d7.js";import{_ as a}from"./ProjectTable.vue_vue_type_script_setup_true_lang-43c524a5.js";import{d as o,b as t,h as _,f as e}from"./index-ca48b553.js";const c={class:"table w-full"},p=o({__name:"Table",setup(r){return(m,n)=>(t(),_("div",c,[e(s),e(a,{class:"mt-4"})]))}});export{p as _};
-//# sourceMappingURL=Table.vue_vue_type_script_setup_true_lang-ce0f5ef9.js.map
