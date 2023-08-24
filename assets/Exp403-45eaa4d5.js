@@ -1,2 +1,0 @@
-import{d as a,q as i,b as r,h as l,e,t,g as n,f as p,w as c}from"./index-cb83f219.js";import{_ as d}from"./index-4aee3936.js";const _=e("div",null,"403 Forbidden (no permission)",-1),h=a({__name:"Exp403",props:{permission:String,path:String},setup(o){return console.log(i()),(m,u)=>{const s=d;return r(),l("div",null,[_,e("div",null,"path: "+t(o.path),1),e("div",null,[n(" need permission: "),p(s,{color:"blue"},{default:c(()=>[n(t(o.permission),1)]),_:1})])])}}});export{h as default};
-//# sourceMappingURL=Exp403-45eaa4d5.js.map

@@ -1,0 +1,2 @@
+import{_ as o}from"./AuthorTable.vue_vue_type_script_setup_true_lang-52e2a998.js";import"./index-f359d0f0.js";import"./index-051ed3b3.js";import"./eagerComputed-09d6bb9c.js";import"./index-a3ea112e.js";import"./RadioButton-3f485d51.js";import"./useBreakpoint-16416ea6.js";import"./index-be19a16e.js";import"./index-7d0683f9.js";import"./file-b45552ca.js";import"./index-73a5f9d9.js";export{o as default};
+//# sourceMappingURL=AuthorTable-a059cdbc.js.map
